@@ -1,2 +1,2 @@
 # tugas-6-PHP
-pengumpulan tugas 6 pemograman php
+Pengumpulan tugas 6 php
